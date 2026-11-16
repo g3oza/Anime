@@ -32,7 +32,7 @@ This chart below is a bit cooked, but the labels tell you where both girls' odds
 
 # Aang's Sneeze
 
-In S1E1, Aang sneezes and flies, according to Sokka, 10ft in the air. But is this actually right?
+(In One Cell Wonders) In S1E1, Aang sneezes and flies, according to Sokka, 10ft in the air. But is this actually right?
 
 **The Question:** 
 

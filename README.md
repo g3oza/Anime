@@ -30,3 +30,22 @@ This chart below is a bit cooked, but the labels tell you where both girls' odds
 
 - Cheaters are usually caught from patterns after a few games, not one in isolation!
 
+# Aang's Sneeze
+
+In S1E1, Aang sneezes and flies, according to Sokka, 10ft in the air. But is this actually right?
+
+**The Question:** 
+
+1. How high did he go?
+   
+**The METHOD** 
+
+I counted his airtime according to the clip, assumed his landing height at 9/11ths of Katara by approximation and used SUVAT equations to calculate his height, since acceleration due to gravity was constant
+
+## The Results
+
+**1. He flew 44.4m into the air!**
+
+## Limits
+
+- Anime timing is not real life timing 
